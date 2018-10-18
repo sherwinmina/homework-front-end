@@ -1,0 +1,8 @@
+.image_giph{
+  cursor: pointer;
+  border: white 4px solid;
+}
+
+.image_giph:hover{
+  border: rgb(167, 8, 199) 3px solid;
+}
